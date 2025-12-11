@@ -12,8 +12,6 @@ about:
     - text: Email
       href: mailto:eariasmendez@middlebury.edu
 ---
-        
-# page content excluded for brevity ~
 
 # Get To Know Me
 
