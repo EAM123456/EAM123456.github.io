@@ -1,6 +1,6 @@
 ---
 title: "Eduardo Arias Mendez"
-image: IMG_6290.HEIC
+image: Picture.jpg
 toc: false
 about: 
   template: jolla
