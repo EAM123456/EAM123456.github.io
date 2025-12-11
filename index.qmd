@@ -1,6 +1,6 @@
 ---
 title: "Eduardo Arias Mendez"
-image: /Users/arias/Downloads/Picture.jpg
+image: /Users/arias/Desktop/STAT0118/git/EAM123456.github.io/Picture.jpg
 toc: false
 about: 
   template: jolla
