@@ -1,6 +1,6 @@
 ---
 title: "Eduardo Arias Mendez"
-image: Picture.jpg
+image: /Users/arias/Downloads/Picture.jpg
 toc: false
 about: 
   template: jolla
