@@ -1,6 +1,19 @@
 ---
 title: "Eduardo Arias Mendez"
+image: IMG_6290.HEIC
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/EAM123456
+    - text: Email
+      href: mailto:eariasmendez@middlebury.edu
 ---
+        
+# page content excluded for brevity ~
 
 # Get To Know Me
 
