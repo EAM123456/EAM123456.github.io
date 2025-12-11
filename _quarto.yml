@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "EAM123456.github.io"
+  title: "Eduardo Arias Mendez"
   navbar:
     left:
       - href: index.qmd
